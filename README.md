@@ -7,12 +7,13 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
-### 4 most recent TILs
+### 5 most recent TILs
 
+- [Pycharm 에서 Scientific View 로 plot animation 실행 되지않는 문제 대응](Python/disable-sceintfic-view-in-pycharm.md) - Wed Jun 24 13:16:24 2020 +0900
 - [docker-compose 명령어 실행시 docker-compose.yml 지원하지 않는 에러 발생시](Docker/docker-compose.yml-unspported-error.md) - Tue May 12 10:21:00 2020 +0900
 - [AWS Lightsail Ubuntu 에서 Docker 데몬 접속할 수 없는 에러 발생시](Docker/cound-not-connect-docker-error-in-lgitsail.md) - Tue May 12 10:14:23 2020 +0900
 - [http-proxy-middleware 패키지에서 multipart/form-data 지원](Node.js/support-multipart-form-data-to-http-proxy-middleware.md) - Mon May 11 16:00:34 2020 +0900
@@ -23,6 +24,7 @@ _4 TILs and counting..._
 - [Docker](#Docker)
 - [Github](#Github)
 - [Node.js](#Node.js)
+- [Python](#Python)
 
 ### [Docker](#Docker)
 - [AWS Lightsail Ubuntu 에서 Docker 데몬 접속할 수 없는 에러 발생시](Docker/cound-not-connect-docker-error-in-lgitsail.md)
@@ -33,6 +35,9 @@ _4 TILs and counting..._
 
 ### [Node.js](#Node.js)
 - [http-proxy-middleware 패키지에서 multipart/form-data 지원](Node.js/support-multipart-form-data-to-http-proxy-middleware.md)
+
+### [Python](#Python)
+- [Pycharm 에서 Scientific View 로 plot animation 실행 되지않는 문제 대응](Python/disable-sceintfic-view-in-pycharm.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
