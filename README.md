@@ -7,7 +7,7 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _5 TILs and counting..._
 ### Categories
 
 - [Docker](#Docker)
+- [Ghost](#Ghost)
 - [Github](#Github)
 - [Node.js](#Node.js)
 - [Python](#Python)
@@ -29,6 +30,9 @@ _5 TILs and counting..._
 ### [Docker](#Docker)
 - [AWS Lightsail Ubuntu 에서 Docker 데몬 접속할 수 없는 에러 발생시](Docker/cound-not-connect-docker-error-in-lgitsail.md)
 - [docker-compose 명령어 실행시 docker-compose.yml 지원하지 않는 에러 발생시](Docker/docker-compose.yml-unspported-error.md)
+
+### [Ghost](#Ghost)
+- [Ghost 블로그에 Twitter 댓글 활용하기](Ghost/create-ghost-blog-comments-environment-with-twitter.md)
 
 ### [Github](#Github)
 - [GitHub Action 을 이용하여 TIL README 파일 자동생성](Github/auto-generating-til-readme-via-github-action.md)
