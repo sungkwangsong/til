@@ -52,7 +52,7 @@ git config commit.gpgsign true
 * git config 에 **signingkey** 추가
 ABC1234567 대신 생성한 Key pairs 의 Secret Key ID 추가
 ```
-git config commit.gpgsignkey ABC1234567
+git config user.signingkey ABC1234567
 ```
 
 * git 저장소에 commit 하고 push 할 때 gpg 비밀번호 입력
