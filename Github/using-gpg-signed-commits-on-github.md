@@ -55,4 +55,7 @@ ABC1234567 대신 생성한 Key pairs 의 Secret Key ID 추가
 git config commit.gpgsignkey ABC1234567
 ```
 
-* git 저장소에 commit 할 때 gpg 비밀번호 입력
+* git 저장소에 commit 하고 push 할 때 gpg 비밀번호 입력
+* GitHub 사이트에서 commit 로그에 GPG signed commit 인증 확인
+
+![](https://hbn-blog-assets.s3.ap-northeast-2.amazonaws.com/sungkwang/2021/02/Screen%20Shot%202021-02-02%20at%2011.18.19%20AM.png)
