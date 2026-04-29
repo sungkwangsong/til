@@ -6,30 +6,35 @@ and researching. My goal is to work in public. I was inspired to start this
 repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
-
-_8 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
 ### 5 most recent TILs
 
+- [MinIO로 S3 로컬 테스트 환경 구성하기](AWS/local-s3-testing-with-minio.md) - Wed Apr 29 15:40:28 2026 +0900
+- [네트워크 구성 참고 자료](AI/RaspberryPi/references.md) - Wed Mar 5 10:15:09 2025 +0900
+- [iPad에서 VSCode 사용하기](VSCode/using-vscode-on-ipad.md) - Mon Feb 24 13:44:27 2025 +0900
 - [AI 관련연구 연구소](AI/references.md) - Tue Feb 16 10:25:58 2021 +0900
-- [Pycharm 에서 Scientific View 로 plot animation 실행 되지않는 문제 대응](Python/disable-sceintfic-view-in-pycharm.md) - Wed Jun 24 13:16:24 2020 +0900
-- [docker-compose 명령어 실행시 docker-compose.yml 지원하지 않는 에러 발생시](Docker/docker-compose.yml-unspported-error.md) - Tue May 12 10:21:00 2020 +0900
-- [AWS Lightsail Ubuntu 에서 Docker 데몬 접속할 수 없는 에러 발생시](Docker/cound-not-connect-docker-error-in-lgitsail.md) - Tue May 12 10:14:23 2020 +0900
-- [http-proxy-middleware 패키지에서 multipart/form-data 지원](Node.js/support-multipart-form-data-to-http-proxy-middleware.md) - Mon May 11 16:00:34 2020 +0900
+- [GitHub 에 GPG를 이용하여 서명된 commit 사용하기](Github/using-gpg-signed-commits-on-github.md) - Tue Feb 2 11:14:59 2021 +0900
 
 ### Categories
 
 - [AI](#AI)
+- [AWS](#AWS)
 - [Docker](#Docker)
 - [Ghost](#Ghost)
 - [Github](#Github)
 - [Node.js](#Node.js)
 - [Python](#Python)
+- [VSCode](#VSCode)
 
 ### [AI](#AI)
+- [네트워크 구성 참고 자료](AI/RaspberryPi/references.md)
 - [AI 관련연구 연구소](AI/references.md)
+
+### [AWS](#AWS)
+- [MinIO로 S3 로컬 테스트 환경 구성하기](AWS/local-s3-testing-with-minio.md)
 
 ### [Docker](#Docker)
 - [AWS Lightsail Ubuntu 에서 Docker 데몬 접속할 수 없는 에러 발생시](Docker/cound-not-connect-docker-error-in-lgitsail.md)
@@ -48,6 +53,8 @@ _8 TILs and counting..._
 ### [Python](#Python)
 - [Pycharm 에서 Scientific View 로 plot animation 실행 되지않는 문제 대응](Python/disable-sceintfic-view-in-pycharm.md)
 
+### [VSCode](#VSCode)
+- [iPad에서 VSCode 사용하기](VSCode/using-vscode-on-ipad.md)
+
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
-
