@@ -12,11 +12,11 @@ _11 TILs and counting..._
 
 ### 5 most recent TILs
 
-- [MinIO로 S3 로컬 테스트 환경 구성하기](AWS/local-s3-testing-with-minio.md) - Wed Apr 29 15:40:28 2026 +0900
-- [네트워크 구성 참고 자료](AI/RaspberryPi/references.md) - Wed Mar 5 10:15:09 2025 +0900
-- [iPad에서 VSCode 사용하기](VSCode/using-vscode-on-ipad.md) - Mon Feb 24 13:44:27 2025 +0900
-- [AI 관련연구 연구소](AI/references.md) - Tue Feb 16 10:25:58 2021 +0900
-- [GitHub 에 GPG를 이용하여 서명된 commit 사용하기](Github/using-gpg-signed-commits-on-github.md) - Tue Feb 2 11:14:59 2021 +0900
+- [MinIO로 S3 로컬 테스트 환경 구성하기](AWS/local-s3-testing-with-minio.md) - 2026-04-29 15:40:28
+- [네트워크 구성 참고 자료](AI/RaspberryPi/references.md) - 2025-03-05 10:15:09
+- [iPad에서 VSCode 사용하기](VSCode/using-vscode-on-ipad.md) - 2025-02-24 13:44:27
+- [AI 관련연구 연구소](AI/references.md) - 2021-02-16 10:25:58
+- [GitHub 에 GPG를 이용하여 서명된 commit 사용하기](Github/using-gpg-signed-commits-on-github.md) - 2021-02-02 11:14:59
 
 ### Categories
 

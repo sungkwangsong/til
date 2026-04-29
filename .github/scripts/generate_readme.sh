@@ -40,7 +40,7 @@ git log --diff-filter=A --name-only --pretty=format: -- "*.md" \
 while IFS= read -r file; do
   if [ -f "$file" ]; then
     TITLE=$(head -1 "$file" | sed 's/^#* *//')
-    DATE=$(git log --diff-filter=A --format="%ad" -- "$file" | head -1)
+    DATE=$(git log --diff-filter=A --format="%ad" --date="format:%Y-%m-%d %H:%M:%S" -- "$file" | head -1)
     echo "- [$TITLE]($file) - $DATE" >> "$OUTPUT"
   fi
 done < /tmp/recent_files.txt
